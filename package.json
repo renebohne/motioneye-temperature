@@ -1,0 +1,23 @@
+{
+  "name": "motioneye-temperature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renebohne/motioneye-temperature.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renebohne/motioneye-temperature/issues"
+  },
+  "homepage": "https://github.com/renebohne/motioneye-temperature#readme",
+  "dependencies": {
+    "ds18b20-raspi": "^0.3.3",
+    "mqtt": "^2.18.8"
+  }
+}
